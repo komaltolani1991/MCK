@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?eclipse-pydev version="1.0"?><pydev_project>
+<pydev_property name="org.python.pydev.PYTHON_PROJECT_INTERPRETER">Default</pydev_property>
+<pydev_property name="org.python.pydev.PYTHON_PROJECT_VERSION">python interpreter</pydev_property>
+<pydev_pathproperty name="org.python.pydev.PROJECT_SOURCE_PATH">
+<path>/${PROJECT_DIR_NAME}/sample</path>
+</pydev_pathproperty>
+<pydev_pathproperty name="org.python.pydev.PROJECT_EXTERNAL_SOURCE_PATH">
+<path>C:\Users\komalt\Downloads\spark-2.4.4-bin-hadoop2.7\spark-2.4.4-bin-hadoop2.7\spark-2.4.4-bin-hadoop2.7\python\lib\mysql-connector-java-5.1.48.jar</path>
+<path>C:\Users\komalt\Downloads\spark-2.4.4-bin-hadoop2.7\spark-2.4.4-bin-hadoop2.7\spark-2.4.4-bin-hadoop2.7\python\lib\mysql-connector-java-5.1.48-bin.jar</path>
+<path>C:\Users\komalt\Downloads\spark-2.4.4-bin-hadoop2.7\spark-2.4.4-bin-hadoop2.7\spark-2.4.4-bin-hadoop2.7\python\lib\py4j-0.10.7-src.zip</path>
+<path>C:\Users\komalt\Downloads\spark-2.4.4-bin-hadoop2.7\spark-2.4.4-bin-hadoop2.7\spark-2.4.4-bin-hadoop2.7\python\lib\pyspark.zip</path>
+</pydev_pathproperty>
+</pydev_project>

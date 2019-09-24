@@ -1,0 +1,6 @@
+{
+"host":"localhost",
+"username":"root",
+"passwd":"sqluser12345",
+"database": "grip_metadata"
+}
